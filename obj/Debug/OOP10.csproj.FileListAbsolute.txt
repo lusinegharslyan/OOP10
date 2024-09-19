@@ -1,0 +1,7 @@
+C:\Users\lusin\source\repos\OOP10\bin\Debug\OOP10.exe.config
+C:\Users\lusin\source\repos\OOP10\bin\Debug\OOP10.exe
+C:\Users\lusin\source\repos\OOP10\bin\Debug\OOP10.pdb
+C:\Users\lusin\source\repos\OOP10\obj\Debug\OOP10.csproj.AssemblyReference.cache
+C:\Users\lusin\source\repos\OOP10\obj\Debug\OOP10.csproj.CoreCompileInputs.cache
+C:\Users\lusin\source\repos\OOP10\obj\Debug\OOP10.exe
+C:\Users\lusin\source\repos\OOP10\obj\Debug\OOP10.pdb
